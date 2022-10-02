@@ -364,4 +364,4 @@ $ npx synthetix versions --by-contract
 ```
 
 
-Test: 0001
+Test: 0002
