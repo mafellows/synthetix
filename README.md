@@ -364,7 +364,7 @@ $ npx synthetix versions --by-contract
 ```
 
 
-Test: 0002
+Test: 0003
 Executing test audit 1668657105
 
 Executing test audit 1668660161
